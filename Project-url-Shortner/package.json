@@ -1,4 +1,4 @@
-{
+shivamshukla0912{
   "name": "project-url-shortner",
   "version": "1.0.0",
   "description": "project URL-shortner. URL shortening is used to create shorter aliases for long URLs. We call these shortened aliases “short links.” Users are redirected to the original URL when they hit these short links. Short links save a lot of space when displayed, printed, messaged, or tweeted. Additionally, users are less likely to mistype shorter URLs.",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunandasharma61/Project-url-Shortner.git"
+    "url": "git+https://github.com/shivamshukla0912/Project-url-Shortner.git"
   },
-  "author": "Sunanda Sharma",
+  "author": "Shivam Shukla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunandasharma61/Project-url-Shortner/issues"
+    "url": "https://github.com/shivamshukla0912/Project-url-Shortner/issues"
   },
-  "homepage": "https://github.com/sunandasharma61/Project-url-Shortner#readme",
+  "homepage": "https://github.com/shivamshukla0912/Project-url-Shortner#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.8.2",
